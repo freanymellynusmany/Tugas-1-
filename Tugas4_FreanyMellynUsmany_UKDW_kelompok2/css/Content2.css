@@ -1,0 +1,18 @@
+.diam{
+    font-size: 11px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: rgb(21, 104, 199);
+    text-decoration: none;
+    padding: 4px;
+
+}
+
+body{
+    background-color: #5F9EA0;
+}
+.dhh{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
